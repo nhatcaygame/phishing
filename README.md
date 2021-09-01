@@ -24,16 +24,16 @@ $ git clone https://github.com/nhatcaygame/phishing.git
 
 - Thay đổi thành thư mục nhân bản và chạy `phishing.sh` -
 ```
-$ cd zphisher
-$ bash nhatcaygame.sh
+$ cd phishing
+$ bash phishing.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull nhatcaygame/phishing
+$ docker run --rm -it nhatcaygame/phising
 ```
 
 ### Dependencies
