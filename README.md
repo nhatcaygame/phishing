@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center"><b>Chia Sẻ Bởi Nhật Cày Game</p>
+<p align="center"><b>Phát Triển Bởi Vũ Minh Nhật</p>
 
 #
 ### Nhà Phát Triển
