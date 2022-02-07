@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center"><b>Phát Triển Bởi Vũ Minh Nhật</p>
+<p align="center"><b>Developed by Vu Minh Nhat</p>
 
 #
 ### Nhà Phát Triển
@@ -15,14 +15,14 @@
 
 #
   
-### Cài Đặt
+### Setting
 
-- Chỉ là, sao chép kho lưu trữ này -
+- Just, clone this archive-
 ```
 $ git clone https://github.com/nhatcaygame/phishing.git
 ```
 
-- Thay đổi thành thư mục nhân bản và chạy `phishing.sh` -
+- Change to mirror directory and run `phishing.sh` -
 ```
 $ cd phishing
 $ bash phishing.sh
